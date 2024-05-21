@@ -1,0 +1,12 @@
+Scala/.idea/libraries/sbt__com_clearspring_analytics_stream_2_9_6_jar.xml
+Scala/.idea/
+.metals/
+Scala/src/main/data/
+Scala/.bloop/
+Scala/project/.bloop/
+Scala/project/project/project/
+Scala/project/project/target/
+Scala/project/target/
+Scala/target/
+.vscode/
+Scala/.bsp/sbt.json
