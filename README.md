@@ -1,4 +1,4 @@
-# Big Data Analytics Projet
+# ML-Music-recommendation-engine
 
 **Team Members :** Antony Carrard, Anne Sophie Ganguillet, Dalia Maillefer, Killian Vervelle
 
