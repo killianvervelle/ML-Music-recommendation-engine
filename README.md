@@ -84,7 +84,7 @@ For the clustering based on music genre, we used the following features:
 |time_signature = Int
 ```
 
-Pour la classification supervisée sur le genre musical (multiple layer perceptron, decision tree, random forest), nous avons utilisé les features suivantes :
+For supervised classification on musical genre (multiple layer perceptron, decision tree, random forest), we used the following features:
 ```
 |loudness = Float
 |tempo = Float
@@ -96,7 +96,7 @@ To address the first two questions, we utilized data augmentation to generate th
 
 ### Questions
 
-In the scope of the project, we aim to address 4 questions:
+The scope of the project adresses 4 questions:
 - **Question 1 :** What are the most popular genres? Which year has the highest number of songs produced? Which country has the largest number of artists?
 - **Question 2 :** What is the average loudness and average BPM (beats per minute) per music genre?
 - **Question 3 :** How can we predict the music genre based on the characteristics of other songs (loudness, tempo, key, duration) -> Machine learning
